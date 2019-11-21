@@ -1,9 +1,8 @@
 # Git repo for our Titanic data analysis project
 
-Ivan, Evgeny, Patricia
+Patricia, Ivan, Evgeny
 
-We are going to work on the Titanic data set provided by the [Kaggle Competit
-ion](https://www.kaggle.com/c/titanic/overview).
+We are going to work on the Titanic data set provided by the [Kaggle Competition](https://www.kaggle.com/c/titanic/overview).
 
 
 
