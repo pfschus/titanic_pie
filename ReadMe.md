@@ -3,7 +3,7 @@
 Patricia, Ivan, Evgeny
 
 We are going to work on the Titanic data set provided by the [Kaggle Competition](https://www.kaggle.com/c/titanic/overview).
-
+Please create your analysis notebooks in the "notebooks" folder
 
 
 
