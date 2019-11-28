@@ -11,14 +11,14 @@ We are going to work on the Titanic data set provided by the [Kaggle Competition
 
 ## 11/28/2019
 
-[ ] All: Read [random forest implementation](https://www.kaggle.com/alexisbcook/titanic-tutorial)
-[ ] I&E: Initial data exploration (Ivan starts with cabin information) 
-[ ] Evgeny: Investigate LiveShare options  
-[ ] Ivan: Install Visual Studio, Liveshare
-[ ] Ivan: Google Colab?
-[ ] Patricia: Update exploration to look at likelihood of survival vs. variable
-[ ] All: Stretch goal, try the random forest implementation 
-[ ] All: Do something fun this week, report back  
+[ ] All: Read [random forest implementation](https://www.kaggle.com/alexisbcook/titanic-tutorial)  
+[ ] I&E: Initial data exploration (Ivan starts with cabin information)   
+[ ] Evgeny: Investigate LiveShare options    
+[ ] Ivan: Install Visual Studio, Liveshare  
+[ ] Ivan: Google Colab?  
+[ ] Patricia: Update exploration to look at likelihood of survival vs. variable  
+[ ] All: Stretch goal, try the random forest implementation   
+[ ] All: Do something fun this week, report back    
 
 ## 11/12/2019
 
