@@ -11,19 +11,19 @@ We are going to work on the Titanic data set provided by the [Kaggle Competition
 
 ## Future
 
-[ ] Transform columns for new information.
-[ ] Other ML algorithms
-[ ] Use siblings, children
+[ ] Transform columns for new information.  
+[ ] Other ML algorithms  
+[ ] Use siblings, children  
 
 ## 12/8/2019
 
 Next meeting (tentative) Dec 15, 2019  7 PM / 8 AM
 
-[ ] Evgeny: How were PassengerId assigned?
-[ ] Patricia: Try to visualize with violin graph- gender (left male, right female)
-[ ] Evgeny: Find info on layout of ship
-[ ] Evgeny: Read about random forest algorithm
-[ ] Evgeny: Investigate LiveShare options- run Jupyter notebooks, execute code  
+[ ] Evgeny: How were PassengerId assigned?  
+[ ] Patricia: Try to visualize with violin graph- gender (left male, right female)  
+[ ] Evgeny: Find info on layout of ship  
+[ ] Evgeny: Read about random forest algorithm  
+[ ] Evgeny: Investigate LiveShare options- run Jupyter notebooks, execute code    
 [ ] Patricia: LiveShare Jupyter notebook  
 [ ] Evgeny: Finish Bokeh efforts  
 [ ] Patricia: Watch Titanic movie, cry 
