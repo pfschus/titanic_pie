@@ -4,9 +4,6 @@ Patricia, Ivan, Evgeny
 
 We are going to work on the Titanic data set provided by the [Kaggle Competition](https://www.kaggle.com/c/titanic/overview).
 
-
-
-
 # To Do Items
 
 ## Future
@@ -14,6 +11,17 @@ We are going to work on the Titanic data set provided by the [Kaggle Competition
 [ ] Transform columns for new information.  
 [ ] Other ML algorithms  
 [ ] Use siblings, children  
+
+## 12/19/2019
+
+Next meeting Dec 26, 2019  7-30 PM / 8-30 AM
+
+[ ] Evgeny: How were PassengerId assigned?  
+[ ] Evgeny: Find info on layout of ship  
+[ ] Evgeny: Read about random forest algorithm  
+[ ] Patricia: Watch the <a href="http://www.yahoo.com">course</a>, tell how good it is and make Ivan and Evgeny buying it
+[ ] Patricia: Try to visualize with violin graph- gender (left male, right female)  
+[ ] Patricia: Watch Titanic movie, cry 
 
 ## 12/8/2019
 
@@ -23,9 +31,9 @@ Next meeting (tentative) Dec 15, 2019  7 PM / 8 AM
 [ ] Patricia: Try to visualize with violin graph- gender (left male, right female)  
 [ ] Evgeny: Find info on layout of ship  
 [ ] Evgeny: Read about random forest algorithm  
-[ ] Evgeny: Investigate LiveShare options- run Jupyter notebooks, execute code    
-[ ] Patricia: LiveShare Jupyter notebook  
-[ ] Evgeny: Finish Bokeh efforts  
+[X] Evgeny: Investigate LiveShare options- run Jupyter notebooks, execute code    
+[X ] Patricia: LiveShare Jupyter notebook  
+[X] Evgeny: Finish Bokeh efforts  
 [ ] Patricia: Watch Titanic movie, cry 
 
 ## 11/28/2019
